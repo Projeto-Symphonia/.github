@@ -1,4 +1,8 @@
-# Perfil da Organização — Symphonia
+<h1 align="center"> Projeto Symphonia </h1>
+
+<h3 align="center">
+    <img src="https://github.com/Projeto-Symphonia/.github/blob/main/imgs/Logo%20Symphonia.png" height="255" alt="ForecastHUB"><br>
+</h3>
 
 Bem-vindos ao perfil da organização Symphonia — um time dedicado a construir uma plataforma para compartilhar e avaliar álbuns e músicas.
 
@@ -12,7 +16,7 @@ Criar uma experiência social e colaborativa para fãs de música, permitindo qu
 -   Frontend moderno em React (Vite) para uma experiência interativa e responsiva.
 -   Componentização pensada para facilitar reuso (ex.: componentes de posts, comentários, avaliações por estrelas).
 
-Conteúdo principal do repositório base: [README.md](README.md)
+Conteúdo principal do repositório base: [Projeto Symphonia](https://github.com/Projeto-Symphonia/Symphonia-Web)
 
 ## Tecnologias chave
 
@@ -41,16 +45,15 @@ Conteúdo principal do repositório base: [README.md](README.md)
 
 ## Time — Integrantes
 
--   Ana Luiza
--   Pedro Henrique
--   Gustavo Fontenele
--   Riquelmy Ricarte
--   Matheus Cardoso
+-   [Ana Luiza](https://github.com/luizamtro)
+-   [Pedro Henrique](https://github.com/PedroBarbosaIF)
+-   [Gustavo Fontenele](https://github.com/fontenelegustavo)
+-   [Riquelmy Ricarte](https://github.com/Riquelmy77)
+-   [Matheus Cardoso](https://github.com/matheusct27)
 
 ## Contato
 
-Para mais informações, issues ou acesso a recursos (ex.: banco de dados de desenvolvimento), abra uma issue neste repositório ou contate o responsável pelo projeto.
+[Email profissional](projetosymphonia@gmail.com)
 
 ---
 
-Arquivo baseado em: [README.md](README.md)
